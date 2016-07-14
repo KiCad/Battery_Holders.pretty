@@ -1,10 +1,10 @@
-(module Keystone_104_1x23mm (layer F.Cu) (tedit 5787C34F)
+(module Keystone_104_1x23mm-CoinCell (layer F.Cu) (tedit 5787C34F)
   (descr http://www.keyelco.com/product-pdf.cfm?p=744)
   (tags "Keystone type 104 battery holder")
   (fp_text reference REF*** (at 0 -4) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Keystone_104_1x23mm (at 15 14) (layer F.Fab)
+  (fp_text value Keystone_104_1x23mm-CoinCell (at 15 14) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text user + (at 2.75 0) (layer F.SilkS)
@@ -48,7 +48,7 @@
   (fp_line (start 23.7236 -7.8486) (end 24.5264 -8.6006) (layer F.Fab) (width 0.15))
   (pad 2 thru_hole circle (at 20.49 0) (size 3 3) (drill 1.5) (layers *.Cu *.Mask F.SilkS))
   (pad 1 thru_hole rect (at 0 0) (size 3 3) (drill 1.5) (layers *.Cu *.Mask F.SilkS))
-  (model Battery_Holders.3dshapes/Keystone_104_1x23mm.wrl
+  (model Battery_Holders.3dshapes/Keystone_104_1x23mm-CoinCell.wrl
     (at (xyz 0.6 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 180))
