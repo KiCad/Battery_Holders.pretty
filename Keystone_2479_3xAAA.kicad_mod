@@ -4,7 +4,7 @@
   (fp_text reference REF** (at 0 -7 180) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value BatteryHolder_3xAAA_Keystone_2479 (at 25.4 8.89) (layer F.Fab)
+  (fp_text value Keystone_2479_3xAAA (at 25.4 8.89) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 50.5 31.65) (end 50.5 -6.05) (layer F.SilkS) (width 0.15))
