@@ -49,8 +49,8 @@
   (fp_arc (start -1.5 -2.5) (end -1.9 -2.5) (angle 90) (layer F.Fab) (width 0.15))
   (fp_line (start 22.6441 6.858) (end 25.35 9.3734) (layer F.Fab) (width 0.15))
   (fp_line (start 22.6568 -6.858) (end 25.3419 -9.4288) (layer F.Fab) (width 0.15))
-  (pad 2 thru_hole circle (at 20.49 0) (size 3 3) (drill 1.5) (layers *.Cu *.Mask F.SilkS))
-  (pad 1 thru_hole rect (at 0 0) (size 3 3) (drill 1.5) (layers *.Cu *.Mask F.SilkS))
+  (pad 2 thru_hole circle (at 20.49 0) (size 3 3) (drill 1.5) (layers *.Cu *.Mask))
+  (pad 1 thru_hole rect (at 0 0) (size 3 3) (drill 1.5) (layers *.Cu *.Mask))
   (model Battery_Holders.3dshapes/Keystone_106_1x20mm-CoinCell.wrl
     (at (xyz 0.6 0 0))
     (scale (xyz 1 1 1))
