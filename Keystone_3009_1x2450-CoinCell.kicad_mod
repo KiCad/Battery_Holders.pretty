@@ -1,4 +1,4 @@
-(module Keystone_3009_1x2450-CoinCell (layer F.Cu) (tedit 57AF132A)
+(module Keystone_3009_1x2450-CoinCell (layer F.Cu) (tedit 58972349)
   (descr http://www.keyelco.com/product-pdf.cfm?p=787)
   (tags "Keystone type 3009 coin cell retainer")
   (fp_text reference REF*** (at 0 -14.4) (layer F.SilkS)
@@ -55,7 +55,7 @@
   (fp_line (start -4.45 -12.55) (end -13.35 -6.7) (layer F.CrtYd) (width 0.05))
   (pad 1 thru_hole circle (at -12.7 0) (size 3 3) (drill 1.9) (layers *.Cu *.Mask))
   (pad 1 thru_hole circle (at 12.7 0) (size 3 3) (drill 1.9) (layers *.Cu *.Mask))
-  (pad 2 smd rect (at 0 0) (size 8 8) (layers F.Cu F.Paste F.Mask))
+  (pad 2 smd rect (at 0 0) (size 8 8) (layers F.Cu F.Mask))
   (model Battery_Holders.3dshapes/Keystone_3009_1x2450-CoinCell.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
